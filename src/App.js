@@ -68,7 +68,7 @@ class App extends React.Component{
     return (
         <div className="App">
           <header>
-          <h1>Shopping List</h1>
+          <h1>Shopping App</h1>
           <p className="note">Please enter your items below</p>
             <form id="to-do-form" onSubmit={this.addItem}>
               <input type="text" placeholder="Enter Text" 
