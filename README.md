@@ -24,5 +24,5 @@ npm run build
 
 npm run deploy
 
-## The published To-do App:
+## The published Shopping App:
 https://github.com/dianajoan/react-shopping-list
